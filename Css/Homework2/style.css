@@ -1,0 +1,86 @@
+
+/* 
+    red one :#fe121c
+    blue one: #199cc8
+    yellow one: #f9fe02
+    beige:fff9e6
+    brown one:4a270d
+
+*/
+body{
+    background-color: #4a270d;
+}
+.first-row{
+    position: relative;
+    margin-bottom: 5px;
+
+}
+
+
+
+.first-beige{
+    width: 200px;
+    height:210px;
+    background-color:#fff9e6 ;
+    margin-left:5px;
+    margin-bottom: 25px;
+
+}
+.second-beige{
+    width: 200px;
+    height: 300px;
+    background-color: #fff9e6;
+    margin-left: 5px;
+}
+.red{
+    width: 1270px;
+    height: 535px;
+    background-color:#fe121c ;
+    float: right;
+    margin-left: 5px;
+}
+
+.second-row{
+    position: relative;
+}
+
+
+
+.blue{
+    background-color:#199cc8 ;
+    width:200px;
+    height:200px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.third-beige{
+    width: 1100px;
+    height: 200px;
+    background-color:#fff9e6 ;
+    position: absolute;
+    top:0;
+    left:220px;
+    margin-left: 12px;
+
+    
+}
+
+.forth-beige{
+    background-color:#fff9e6 ;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right:0;
+    top:0;
+    
+}
+.yellow{
+    background-color:#f9fe02 ;
+    width: 100px;
+    height:99px;
+    position: absolute;
+    right: 0;
+    top:100px;
+    margin-top: 8px;
+}
